@@ -52,7 +52,7 @@ To run this project on your local machine, follow these steps:
 ## Model Evaluation
 The movie recommendation system is evaluated based on the following metrics:
 
--**Precision and Recall**: How well the model recommends relevant movies.
--**Mean Squared Error (MSE)**: Evaluating the prediction error for the ratings.
+- **Precision and Recall**: How well the model recommends relevant movies.
+- **Mean Squared Error (MSE)**: Evaluating the prediction error for the ratings.
 
 **Feel free to reach out for better model performance suggestions**
